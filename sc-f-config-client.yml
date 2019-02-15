@@ -14,7 +14,7 @@ spring:
 eureka:
   # Eureka 实例信息
   instance:
-    instance-id: service-consumer-feign   #自定义服务名称的相关信息
+    instance-id: sc-f-config-client   #自定义服务名称的相关信息
     prefer-ip-address: true   #访问路径可以显示 IP 地址
 
   # Eureka 客户端信息
@@ -36,7 +36,7 @@ spring:
 eureka:
   # Eureka 实例信息
   instance:
-    instance-id: service-consumer-feign   #自定义服务名称的相关信息
+    instance-id: sc-f-config-client   #自定义服务名称的相关信息
     prefer-ip-address: true   #访问路径可以显示 IP 地址
 
   # Eureka 客户端信息
